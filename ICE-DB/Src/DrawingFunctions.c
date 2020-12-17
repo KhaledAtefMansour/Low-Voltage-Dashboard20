@@ -227,7 +227,7 @@ void drawRPMSlider(uint16_t Back_Ground_Color) {
 	else
 		fillRect(0, 0, Level, 45, RED);
 }
-drawRPMValue() {
+void drawRPMValue() {
 	char rpm[5];
 	itoa(Old_RPM, rpm, 10);
 	printnewtstr(100, 110, BLACK, &mono12x7bold, 2, rpm);
