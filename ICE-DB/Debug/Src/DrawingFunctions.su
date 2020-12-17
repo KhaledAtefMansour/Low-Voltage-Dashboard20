@@ -1,0 +1,17 @@
+DrawingFunctions.c:15:6:Draw_Circle	56	static
+DrawingFunctions.c:37:6:LCD_Showthrmo	40	static
+DrawingFunctions.c:57:6:ShowIntroScreen	40	static
+DrawingFunctions.c:80:6:drawPointer	80	static
+DrawingFunctions.c:90:6:Draw_ARC	40	static
+DrawingFunctions.c:122:6:Draw_ARC_with_thickness	48	static
+DrawingFunctions.c:130:6:Draw_Travelling_Pointer	64	static
+DrawingFunctions.c:136:6:LCD_ShowScale	40	static
+DrawingFunctions.c:157:6:Draw_line_with_thickness	48	static
+DrawingFunctions.c:165:6:drawArcPointer	64	static
+DrawingFunctions.c:172:6:LCD_Showbatt	40	static
+DrawingFunctions.c:201:6:Draw_ARC_with_thickness_2	64	static
+DrawingFunctions.c:213:6:drawBattery	24	static
+DrawingFunctions.c:219:6:drawRPMSlider	24	static
+DrawingFunctions.c:230:1:drawRPMValue	40	static
+DrawingFunctions.c:239:6:drawLap	24	static
+DrawingFunctions.c:244:6:drawGear	40	static
